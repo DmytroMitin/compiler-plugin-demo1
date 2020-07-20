@@ -1,0 +1,1 @@
+https://stackoverflow.com/questions/62914050/is-there-any-way-to-test-a-scala-compiler-plugin
